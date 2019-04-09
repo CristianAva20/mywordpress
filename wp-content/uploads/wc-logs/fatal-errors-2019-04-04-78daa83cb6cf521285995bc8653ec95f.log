@@ -1,0 +1,2 @@
+2019-04-04T03:25:48+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/meta.php on line 950
+

@@ -1,0 +1,30 @@
+2019-04-02T03:18:11+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 925696 bytes) in /var/www/html/mywordpress/wp-includes/media-template.php on line 437
+
+2019-04-02T03:18:55+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/meta.php on line 950
+
+2019-04-02T03:35:11+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/meta.php on line 950
+
+2019-04-02T04:09:15+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/pomo/mo.php on line 323
+
+2019-04-02T04:14:04+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 987136 bytes) in /var/www/html/mywordpress/wp-includes/class.wp-scripts.php on line 271
+
+2019-04-02T04:15:22+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/pomo/translations.php on line 100
+
+2019-04-02T04:22:33+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/functions.php on line 3966
+
+2019-04-02T04:53:18+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/meta.php on line 950
+
+2019-04-02T04:55:09+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/wp-db.php on line 1972
+
+2019-04-02T05:02:43+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 528384 bytes) in /var/www/html/mywordpress/wp-includes/wp-db.php on line 2610
+
+2019-04-02T05:11:41+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 688128 bytes) in /var/www/html/mywordpress/wp-includes/class.wp-scripts.php on line 420
+
+2019-04-02T05:12:01+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/meta.php on line 950
+
+2019-04-02T05:12:19+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 528384 bytes) in /var/www/html/mywordpress/wp-includes/wp-db.php on line 2610
+
+2019-04-02T05:15:52+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 987136 bytes) in /var/www/html/mywordpress/wp-admin/edit-form-blocks.php on line 83
+
+2019-04-02T05:18:44+00:00 CRITICAL Out of memory (allocated 25165824) (tried to allocate 688128 bytes) in /var/www/html/mywordpress/wp-includes/class.wp-scripts.php on line 420
+

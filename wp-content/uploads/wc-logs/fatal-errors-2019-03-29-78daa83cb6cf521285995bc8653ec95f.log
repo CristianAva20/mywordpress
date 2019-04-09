@@ -1,0 +1,4 @@
+2019-03-29T05:32:10+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-includes/functions.php on line 446
+
+2019-03-29T05:55:55+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/mywordpress/wp-content/plugins/contact-form-7/includes/capabilities.php on line 19
+

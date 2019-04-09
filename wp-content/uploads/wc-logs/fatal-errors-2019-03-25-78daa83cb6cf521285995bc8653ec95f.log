@@ -1,0 +1,22 @@
+2019-03-25T04:38:17+00:00 CRITICAL Uncaught Exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /var/www/html/mywordpress/wp-content/plugins/mailpoet/lib/Models/Model.php:346
+Stack trace:
+#0 /var/www/html/mywordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(7178): MailPoet\Models\Model::__callStatic('findOne', Array)
+#1 /var/www/html/mywordpress/wp-includes/shortcodes.php(325): Cmsmasters_Shortcodes->cmsmasters_mailpoet(Array, '', 'cmsmasters_mail...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/html/mywordpress/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(cmsmas...', 'do_shortcode_ta...', '<p>[cmsmasters_...')
+#4 /var/www/html/mywordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(924): do_shortcode('<p>[cmsmasters_...')
+#5 /var/www/html/mywordpress/wp-includes/shortcodes.php(325): Cmsmasters_Shortcodes->cmsmasters_column(Array, '[cmsmasters_div...', 'cmsmasters_colu...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/h in /var/www/html/mywordpress/wp-content/plugins/mailpoet/lib/Models/Model.php on line 346
+
+2019-03-25T04:38:17+00:00 CRITICAL Uncaught Exception: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /var/www/html/mywordpress/wp-content/plugins/mailpoet/lib/Models/Model.php:346
+Stack trace:
+#0 /var/www/html/mywordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(7178): MailPoet\Models\Model::__callStatic('findOne', Array)
+#1 /var/www/html/mywordpress/wp-includes/shortcodes.php(325): Cmsmasters_Shortcodes->cmsmasters_mailpoet(Array, '', 'cmsmasters_mail...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /var/www/html/mywordpress/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(cmsmas...', 'do_shortcode_ta...', '<p>[cmsmasters_...')
+#4 /var/www/html/mywordpress/wp-content/plugins/cmsmasters-content-composer/inc/shortcodes.php(924): do_shortcode('<p>[cmsmasters_...')
+#5 /var/www/html/mywordpress/wp-includes/shortcodes.php(325): Cmsmasters_Shortcodes->cmsmasters_column(Array, '[cmsmasters_div...', 'cmsmasters_colu...')
+#6 [internal function]: do_shortcode_tag(Array)
+#7 /var/www/h in /var/www/html/mywordpress/wp-content/plugins/mailpoet/lib/Models/Model.php on line 346
+
